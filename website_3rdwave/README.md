@@ -9,3 +9,6 @@
 
 ### Removed
 - Remove color changer from contact page.
+
+### Changed
+- Footer info change on contact page.
