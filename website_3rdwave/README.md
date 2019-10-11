@@ -2,7 +2,7 @@
 
 # CHANGELOG:
 
-## 11 OCT - 2019
+## 11 October - 2019
 ### Added
 - Project Theme by Owes Shubho 11 Oct 2019.
 - Every page heaer mata data added.
