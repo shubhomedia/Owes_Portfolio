@@ -16,3 +16,4 @@
 
 ### Changed
 - Footer info change on contact page.
+- course page info update
