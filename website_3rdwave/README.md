@@ -4,5 +4,8 @@
 
 ## 11 OCT - 2019
 ### Added
-- Project Theme by Owes Shubho 11 Oct 2019
+- Project Theme by Owes Shubho 11 Oct 2019.
+- Every page heaer mata data added.
 
+### Removed
+- Remove color changer from contact page.
