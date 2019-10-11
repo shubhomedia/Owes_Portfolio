@@ -9,6 +9,7 @@
 
 ### Removed
 - Remove color changer from contact page.
+- Remove color changer from resume page.
 
 ### Changed
 - Footer info change on contact page.
