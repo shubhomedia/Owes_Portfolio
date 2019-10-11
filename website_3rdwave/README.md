@@ -11,6 +11,7 @@
 ### Removed
 - Remove color changer from contact page.
 - Remove color changer from resume page.
+- Remove page menu from all page
 
 ### Changed
 - Footer info change on contact page.
