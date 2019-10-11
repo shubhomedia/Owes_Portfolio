@@ -7,6 +7,7 @@
 - Project Theme by Owes Shubho 11 Oct 2019.
 - Every page heaer mata data added.
 - Add Training and workshop on menu
+- Course page added.
 
 ### Removed
 - Remove color changer from contact page.
