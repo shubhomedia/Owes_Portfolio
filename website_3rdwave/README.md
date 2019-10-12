@@ -2,6 +2,10 @@
 
 # CHANGELOG:
 
+## 12 October - 2019
+### Removed 
+- Remove Projects from course page
+
 ## 11 October - 2019
 ### Added
 - Project Theme by Owes Shubho 11 Oct 2019.
