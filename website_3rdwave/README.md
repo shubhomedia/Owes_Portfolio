@@ -9,6 +9,9 @@
 ### Added 
 - New Tab Navbar added
 
+### Changed
+- Navbar center using flex
+
 ## 11 October - 2019
 ### Added
 - Project Theme by Owes Shubho 11 Oct 2019.
