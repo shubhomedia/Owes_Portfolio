@@ -8,6 +8,7 @@
 
 ### Added 
 - New Tab Navbar added
+- Six Item of Certificate add on section
 
 ### Changed
 - Navbar center using flex
