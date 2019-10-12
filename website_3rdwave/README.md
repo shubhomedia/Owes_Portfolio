@@ -6,6 +6,9 @@
 ### Removed 
 - Remove Projects from course page
 
+### Added 
+- New Tab Navbar added
+
 ## 11 October - 2019
 ### Added
 - Project Theme by Owes Shubho 11 Oct 2019.
