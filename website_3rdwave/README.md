@@ -7,7 +7,7 @@
 - Remove Demo 1 from Data Science Course.
 
 ### Added 
-
+- Added new Power BI on Data Science Part in Course
 
 ## 12 October - 2019
 ### Removed 
