@@ -2,6 +2,13 @@
 
 # CHANGELOG:
 
+## 15 October - 2019
+### Removed 
+- Remove Demo 1 from Data Science Course.
+
+### Added 
+
+
 ## 12 October - 2019
 ### Removed 
 - Remove Projects from course page
