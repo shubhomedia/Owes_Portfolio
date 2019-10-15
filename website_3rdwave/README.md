@@ -5,9 +5,11 @@
 ## 15 October - 2019
 ### Removed 
 - Remove Demo 1 from Data Science Course.
+- Remove Demo Card.
 
 ### Added 
 - Added new Power BI on Data Science Part in Course
+- New Menu Data Science and Cloud Computing
 
 ## 12 October - 2019
 ### Removed 
