@@ -10,6 +10,8 @@
 ### Added 
 - Added new Power BI on Data Science Part in Course
 - New Menu Data Science and Cloud Computing
+- Add some new image
+- Add new Google Search Sections
 
 ## 12 October - 2019
 ### Removed 
