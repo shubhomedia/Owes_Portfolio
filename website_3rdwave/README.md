@@ -14,6 +14,7 @@
 - Add new Google Search Sections
 - New Google Assisant Section added
 - New Google Cloud Technology Section Added
+- Web Hosing Ninja Section Added 
 
 ## 12 October - 2019
 ### Removed 
