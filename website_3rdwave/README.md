@@ -12,6 +12,8 @@
 - New Menu Data Science and Cloud Computing
 - Add some new image
 - Add new Google Search Sections
+- New Google Assisant Section added
+- New Google Cloud Technology Section Added
 
 ## 12 October - 2019
 ### Removed 
