@@ -5,7 +5,7 @@
 ## 22 October - 2019
 ### Added 
 - New Menu Web Design added with 6 card
-
+- New Menu Web Development added wtih 4 card
 
 ## 21 October - 2019
 ### Added 
