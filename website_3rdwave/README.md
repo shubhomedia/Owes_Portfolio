@@ -2,6 +2,11 @@
 
 # CHANGELOG:
 
+## 22 October - 2019
+### Added 
+- New Menu Web Design added with 6 card
+
+
 ## 21 October - 2019
 ### Added 
 - New Menu Linux added with 3 card
