@@ -2,6 +2,13 @@
 
 # CHANGELOG:
 
+## 21 October - 2019
+### Added 
+- New Menu Linux added with 3 card
+- Management Menu with 1 card
+- Network Menu with 4 card
+
+
 ## 15 October - 2019
 ### Removed 
 - Remove Demo 1 from Data Science Course.
