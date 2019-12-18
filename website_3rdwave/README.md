@@ -2,6 +2,10 @@
 
 # CHANGELOG:
 
+## 18 December - 2019
+### Added
+- New Project BI page added
+
 ## 22 October - 2019
 ### Added 
 - New Menu Web Design added with 6 card
